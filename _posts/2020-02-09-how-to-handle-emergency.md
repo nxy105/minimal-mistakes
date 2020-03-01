@@ -1,6 +1,8 @@
 ---
 title: 如何从容应对突发事件
 date: '2020-02-09 12:08:26'
+tags:
+- 个人成长
 ---
 
 ![alt](/assets/images/how-to-handle-emergency-01.jpg)
